@@ -39,6 +39,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
+<img width="843" height="1078" alt="Screenshot 2026-11-14 141012" src="https://github.com/user-attachments/assets/df575225-402a-4e9b-bcb0-1f88f600eab1" />
 
 
 ## RESULT:
